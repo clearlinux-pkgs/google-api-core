@@ -4,7 +4,7 @@
 #
 Name     : google-api-core
 Version  : 2.2.1
-Release  : 15
+Release  : 16
 URL      : https://files.pythonhosted.org/packages/ef/3a/afedb3847beaa275daf90ab6ac7920692a9c183c100cef720258fc08e90a/google-api-core-2.2.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ef/3a/afedb3847beaa275daf90ab6ac7920692a9c183c100cef720258fc08e90a/google-api-core-2.2.1.tar.gz
 Summary  : Google API client core library
@@ -72,7 +72,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1635735243
+export SOURCE_DATE_EPOCH=1635735308
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
